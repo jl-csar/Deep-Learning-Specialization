@@ -2,7 +2,7 @@
 
 ### Description
 
-This repo contains all the code assignments I finished in [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) which is taught by Andrew Ng in Coursera.
+This repo contains all the code assignments I finished in [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) which is taught by Andrew Ng in Coursera. This contains only the traning notebooks not including the datasets and dependencies.
 
 Upon completion of the program, the learner is expected to:
 
